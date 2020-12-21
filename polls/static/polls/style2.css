@@ -1,8 +1,13 @@
  body{
-    background: white url("images/background2.png")no-repeat;
-    background-position: right top;
+    background: white url("images/보보.jpg")no-repeat;
+    background-position: bottom;
+    background-color: #e1cdb5;
+    background-size: 60%;
+    height: 700px;
+
 }
 
-li a{
-    color: green;
+.returnBtn{
+    color: #ef6e72;
+    text-decoration: none;
 }

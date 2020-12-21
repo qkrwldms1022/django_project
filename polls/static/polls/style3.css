@@ -1,6 +1,9 @@
  body{
-    background: white url("images/background3.png")no-repeat;
-    background-position: right top;
+    background: white url("images/쿼카13.jpg")no-repeat;
+    background-position: bottom;
+     background-color: #ecdac2;
+     background-size: 50%;
+     height: 750px;
 }
 
 li a{
